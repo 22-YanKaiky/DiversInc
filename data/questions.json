@@ -1,80 +1,106 @@
 [
     {
+        "id": 1,
         "question": "Qual a sua facehtoria ? ( 35 a 45, 45 a 55, 55 a 65, 65+)"
     },
     {
+        "id": 2,
         "question": "14 a 25"
     },
     {
+        "id": 3,
         "question": "25 a 35"
     },
     {
+        "id": 4,
         "question":"35 a 45"
     },
     {
+        "id": 5,
         "question":"45 a 55"
     },
     {
+        "id": 6,
         "question":"55 a 65"
     },
     {
+        "id": 7,
         "question":"65+"
     },
     {
+        "id": 8,
         "question": "Qual o seu gênero "
     },
     {
+        "id": 9,
         "question": "masculino"
     },
     {
+        "id": 10,
         "question": "feminino"
     },
     {
+        "id": 11,
         "question": "outros"
     },
     {
+        "id": 12,
         "question": "prefiro n dizer"
     },
     {
+        "id": 13,
         "question": "Qual foi o sexo atribuido no seu nascimento "
     },
     {
+        "id": 14,
         "question": "masculino"
     },
     {
+        "id": 15,
         "question": "feminino"
     },
     {
+        "id": 16,
         "question": "outros"
     },
     {
+        "id": 17,
         "question": "prefiro não dizer"
     },
     {
+        "id": 18,
         "question": "Qual é a sua nascionalidade? (paises)"
     },
     {
+        "id": 19,
         "question": "qual seu cargo de atuação"
     }, 
     {
+        "id": 20,
         "question": "aprendiz"
     },
     {
+        "id": 21,
         "question": "assistente"
     },
     {
+        "id": 22,
         "question": "analista"
     },
     {
+        "id": 23,
         "question": "supervisor"
     },
     {
+        "id": 24,
         "question": "cordenador"
     },
     {
+        "id": 25,
         "question": "gerente"
     },
     {
+        "id": 26,
         "question": "diretor"
     }
 

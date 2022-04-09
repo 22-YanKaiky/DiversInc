@@ -1,4 +1,5 @@
 const users = require('../../data/users.json');
+const questions = require('../../data/questions.json');
 const createError = require("http-errors");
 const express = require("express");
 const router = express.Router();
@@ -9,6 +10,10 @@ router.get("/", (_, response) =>
 
 router.use("/users", (_, response) => {
   response.status(200).json(users)
+});
+
+router.use("/questions", (_, response) => {
+  response.status(200).json(questions)
 });
 
 router.use(async (_, __, message) => {
