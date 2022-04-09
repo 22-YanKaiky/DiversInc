@@ -13,19 +13,19 @@
     },
     {
         "id": 4,
-        "question":"35 a 45"
+        "question": "35 a 45"
     },
     {
         "id": 5,
-        "question":"45 a 55"
+        "question": "45 a 55"
     },
     {
         "id": 6,
-        "question":"55 a 65"
+        "question": "55 a 65"
     },
     {
         "id": 7,
-        "question":"65+"
+        "question": "65+"
     },
     {
         "id": 8,
@@ -74,7 +74,7 @@
     {
         "id": 19,
         "question": "qual seu cargo de atuação"
-    }, 
+    },
     {
         "id": 20,
         "question": "aprendiz"
@@ -103,5 +103,4 @@
         "id": 26,
         "question": "diretor"
     }
-
 ]
