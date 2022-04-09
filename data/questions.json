@@ -1,0 +1,81 @@
+[
+    {
+        "question": "Qual a sua facehtoria ? ( 35 a 45, 45 a 55, 55 a 65, 65+)"
+    },
+    {
+        "question": "14 a 25"
+    },
+    {
+        "question": "25 a 35"
+    },
+    {
+        "question":"35 a 45"
+    },
+    {
+        "question":"45 a 55"
+    },
+    {
+        "question":"55 a 65"
+    },
+    {
+        "question":"65+"
+    },
+    {
+        "question": "Qual o seu gênero "
+    },
+    {
+        "question": "masculino"
+    },
+    {
+        "question": "feminino"
+    },
+    {
+        "question": "outros"
+    },
+    {
+        "question": "prefiro n dizer"
+    },
+    {
+        "question": "Qual foi o sexo atribuido no seu nascimento "
+    },
+    {
+        "question": "masculino"
+    },
+    {
+        "question": "feminino"
+    },
+    {
+        "question": "outros"
+    },
+    {
+        "question": "prefiro não dizer"
+    },
+    {
+        "question": "Qual é a sua nascionalidade? (paises)"
+    },
+    {
+        "question": "qual seu cargo de atuação"
+    }, 
+    {
+        "question": "aprendiz"
+    },
+    {
+        "question": "assistente"
+    },
+    {
+        "question": "analista"
+    },
+    {
+        "question": "supervisor"
+    },
+    {
+        "question": "cordenador"
+    },
+    {
+        "question": "gerente"
+    },
+    {
+        "question": "diretor"
+    }
+
+]
