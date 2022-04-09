@@ -1,0 +1,10 @@
+[
+    {
+        "name": "yan",
+        "age": 19,
+        "email": "yan1522@gmail.com",
+        "genre": "masculino",
+        "birthday": "05/05/2002", 
+        "cpf": "111.111.111-11" 
+    }
+]
