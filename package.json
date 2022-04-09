@@ -1,9 +1,10 @@
 {
-  "name": "DiversInc",
+  "name": "diversinc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
