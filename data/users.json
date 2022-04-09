@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Yan Kaiky",
+        "age": 19,
+        "email": "yan1522@gmail.com",
+        "genre": "Masculino",
+        "birthday": "05/05/2002", 
+        "cpf": "111.111.111-11" 
+    },
+    {
+        "id": 2,
+        "name": "Douglas",
+        "age": 18,
+        "email": "Douglas522@gmail.com",
+        "genre": "Masculino",
+        "birthday": "05/05/2002", 
+        "cpf": "111.111.111-11" 
+    },
+    {
+        "id": 3,
+        "name": "Júlio",
+        "age": 19,
+        "email": "julho522@gmail.com",
+        "genre": "Masculino",
+        "birthday": "05/05/2002", 
+        "cpf": "111.111.111-11" 
+    },
+    {
+        "id": 4,
+        "name": "Julya",
+        "age": 19,
+        "email": "july@gmail.com",
+        "genre": "Feminimo",
+        "birthday": "06/06/2002", 
+        "cpf": "111.111.111-11" 
+    },
+    {
+        "id": 5,
+        "name": "Renata",
+        "age": 19,
+        "email": "daad@gmail.com",
+        "genre": "Masculino",
+        "birthday": "07/07/2002", 
+        "cpf": "111.111.111-11" 
+    }
+]
